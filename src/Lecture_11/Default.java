@@ -4,6 +4,7 @@ public class Default {
     public static void main(String[] args){
         Student s1 = new Student();
         System.out.println(s1.name+" "+s1.age+" "+s1.isScienceMajor+" "+s1.gender);
+
     }
 }
 
